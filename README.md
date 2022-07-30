@@ -1,0 +1,1 @@
+Just a simple example of getting NFT metadata by Alchemy API.
